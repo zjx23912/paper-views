@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3685263 */
+  src: url('iconfont.woff2?t=1664789194747') format('woff2'),
+       url('iconfont.woff?t=1664789194747') format('woff'),
+       url('iconfont.ttf?t=1664789194747') format('truetype'),
+       url('iconfont.svg?t=1664789194747#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-huaban1fuben4:before {
+  content: "\e77b";
+}
+
+.icon-a-huaban1fuben3:before {
+  content: "\e77c";
+}
+
+.icon-a-huaban1fuben2:before {
+  content: "\e77d";
+}
+
+.icon-a-huaban1fuben12:before {
+  content: "\e77e";
+}
+
+.icon-a-huaban1fuben6:before {
+  content: "\e77f";
+}
+
+.icon-a-huaban1fuben7:before {
+  content: "\e780";
+}
+
+.icon-a-huaban1fuben5:before {
+  content: "\e781";
+}
+
+.icon-a-huaban1fuben9:before {
+  content: "\e782";
+}
+
+.icon-a-huaban1:before {
+  content: "\e783";
+}
+
+.icon-a-huaban1fuben13:before {
+  content: "\e784";
+}
+
+.icon-a-huaban1fuben:before {
+  content: "\e785";
+}
+
+.icon-a-huaban1fuben11:before {
+  content: "\e786";
+}
+
+.icon-a-huaban1fuben10:before {
+  content: "\e787";
+}
+
+.icon-a-huaban1fuben8:before {
+  content: "\e788";
+}
+
